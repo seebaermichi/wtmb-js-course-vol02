@@ -52,17 +52,14 @@ install
 
 during the course a meetup application will be created, with, for example people and events and their properties
 
-## Personal notes
-
-- research more "Semicolon - yes or no" - now it's no (brevity)
-- use single quotes (again, brevity)
-
 ## Learning
 
 - `.this` = reference to self
+- use single quotes (again, brevity)
 - the use of Snippets inside of the Console! (I've only worked within the Console until today, find Snippets under Console/Sources/Snippets)
 
 ## To Do for better understanding
 
+- [ ] research more "Semicolon - yes or no" - now it's no (brevity)
 - [ ] research Constructor
 - [ ] research .this
