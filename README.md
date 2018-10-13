@@ -2,7 +2,7 @@
 
 - This repository will contain notes, code-alongs, assignments and whatever needs to be written down somewhere.
 
-- It will be spit in lectures, just like the JavaScript Cash Course for Beginner itself.
+- It will be split in lectures, just like the JavaScript Cash Course for Beginner itself.
 
   - see Meetup here
 
