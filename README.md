@@ -6,13 +6,14 @@
 
   - see Meetup here
 
-    - [WTMB in general](http://www.meetup.com/women-Techmakers-Berlin/)
+    - [WTMB at meetup.com in general](http://www.meetup.com/women-Techmakers-Berlin/)
     - [WTMB JS Crash Course](https://www.meetup.com/de-DE/Women-Techmakers-Berlin/events/blrhjqyxnbnb/) (this is the meetup for the 1st class)
 
   - see course content here
 
-    - [JavaScript Crash Course content](http://wtmberlin.com/javascript-crash-course/)
-    - [WTMB JS Crash Course on YouTube](https://www.youtube.com/channel/UCANCsbie9EorvBNWfpVntGQ) (it's on Armagan's Channel)
+    - [JavaScript Crash Course lectures content](http://wtmberlin.com/javascript-crash-course/)
+    - [WTMB JS Crash Course on YouTube](https://www.youtube.com/playlist?list=PL9pDl_Oth4cq2Qn___VilUDfPwH3ztqAp)
+    - [WTMBerlin/jscc2018 on GitHub](https://github.com/WTMBerlin/jscc2018)
 
   - essential for a flawless "24/7" communication throughout the course
 
