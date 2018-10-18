@@ -36,14 +36,9 @@ in your IDE (Visual Studio Code):
 ## To Do
 
 - [ ] debugging - generally look into this and improve this over the course of the course
-- [ ] watch VSC videos recommended by Micha!
-
-      [episode 1](https://laracasts.com/series/visual-studio-code-for-php-developers/episodes/1)
-
-      [episode 2](https://laracasts.com/series/visual-studio-code-for-php-developers/episodes/2)
-
-      [episode 6](https://laracasts.com/series/visual-studio-code-for-php-developers/episodes/6)
-
-      [episode 7](https://laracasts.com/series/visual-studio-code-for-php-developers/episodes/7)
-
-      [episode 17](https://laracasts.com/series/visual-studio-code-for-php-developers/episodes/17)
+- [ ] watch VSC videos recommended by Micha!<br/>
+      [episode 1](https://laracasts.com/series/visual-studio-code-for-php-developers/episodes/1)<br/>
+      [episode 2](https://laracasts.com/series/visual-studio-code-for-php-developers/episodes/2)<br/>
+      [episode 6](https://laracasts.com/series/visual-studio-code-for-php-developers/episodes/6)<br/>
+      [episode 7](https://laracasts.com/series/visual-studio-code-for-php-developers/episodes/7)<br/>
+      [episode 17](https://laracasts.com/series/visual-studio-code-for-php-developers/episodes/17)<br/>
