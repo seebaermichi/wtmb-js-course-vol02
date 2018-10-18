@@ -1,0 +1,22 @@
+{
+  "name": "wtmb-js-course-vol02 - lecture-02",
+  "version": "1.0.0",
+  "description": "A package, build during the second week of JS Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EllyPirelly/wtmb-js-course-vol02.git"
+  },
+  "author": "Elle Hanschen <elke.hanschen@oetkerdigital.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EllyPirelly/wtmb-js-course-vol02/issues"
+  },
+  "homepage": "https://github.com/EllyPirelly/wtmb-js-course-vol02#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}

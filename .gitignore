@@ -3,5 +3,8 @@
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
 PROJECTS.code-workspace
 PIMCORE.code-workspace
+
+node_modules/
